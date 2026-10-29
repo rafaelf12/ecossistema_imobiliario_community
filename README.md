@@ -1,0 +1,2 @@
+# ecossistema_imobiliario_community
+Discussões técnicas sobre desenvolvimento de plataformas imobiliárias
